@@ -1,6 +1,14 @@
 # jenkins-project
 Jenkins project , creating multi container environment using docker and taking a backup of the database running on a container to AWS S3 bucket with jenkins
 
+We rely on Jenkins for CI/CD, but a recent server crash led to the loss of critical job and configuration data due to the absence of a backup solution. To prevent future data loss and ensure fast recovery, a secure, automated backup and restore mechanism using AWS S3 needs to be implemented for the Jenkins environment.
+
+
+Solution
+
+<img src="multi-container-application.drawio.png" alt="Solution" width="800"/>
+
+
 A step by step guide is available in the jenkins-project-start.docx
 
 This repo can be cloned and used directly.
