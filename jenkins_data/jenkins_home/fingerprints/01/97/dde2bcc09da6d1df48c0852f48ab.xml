@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2025-04-07 17:55:59.561 UTC</timestamp>
+  <md5sum>0197dde2bcc09da6d1df48c0852f48ab</md5sum>
+  <fileName>Credential id=MYSQL_PASSWORD name=password of mysql container.</fileName>
+  <usages>
+    <entry>
+      <string>S3-backup-job</string>
+      <ranges>1-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

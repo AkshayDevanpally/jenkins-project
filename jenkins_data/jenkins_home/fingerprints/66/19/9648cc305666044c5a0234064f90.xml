@@ -1,0 +1,13 @@
+<?xml version='1.1' encoding='UTF-8'?>
+<fingerprint>
+  <timestamp>2025-04-07 17:55:59.584 UTC</timestamp>
+  <md5sum>66199648cc305666044c5a0234064f90</md5sum>
+  <fileName>Credential id=AWS_SECRET_KEY name=Aws secret access key from User IAM</fileName>
+  <usages>
+    <entry>
+      <string>S3-backup-job</string>
+      <ranges>1-4</ranges>
+    </entry>
+  </usages>
+  <facets/>
+</fingerprint>

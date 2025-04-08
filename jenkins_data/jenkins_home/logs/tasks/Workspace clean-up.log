@@ -1,0 +1,5 @@
+Started at Mon Apr 07 17:45:45 UTC 2025
+Checking remote-job-test
+Checking S3-backup-job
+Deleting /var/jenkins_home/workspace/S3-backup-job on Jenkins
+Finished at Mon Apr 07 17:45:45 UTC 2025. 6ms

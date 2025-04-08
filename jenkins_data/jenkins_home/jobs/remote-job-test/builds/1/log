@@ -1,0 +1,14 @@
+Started by user [8mha:////4I6jV5YCB4y3uZBrpYyP6KUovsgIYo9BKOgW2SSc2pdSAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz2EgZu/dLi1CL9xJTczDwAHhAahcAAAAA=[0mjenkins
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/remote-job-test
+[SSH] script:
+
+Name=job_trial
+echo "Test connection successful $Name" > /tmp/remote-file
+
+[SSH] executing...
+
+[SSH] completed
+[SSH] exit-status: 0
+
+Finished: SUCCESS
